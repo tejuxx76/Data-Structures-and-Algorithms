@@ -1,3 +1,3 @@
 # 01 Arrays
 
-Problems Solved: 0
+Problems Solved: 01
