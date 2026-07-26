@@ -16,9 +16,9 @@ class solution:
         return max_profit
 
 
-# Test Code
+# Test 
 obj = solution()
 
-prices = [7, 1, 5, 3, 6, 4]
+prices = [4, 1, 5, 3, 6, 9]
 
 print(obj.maxProfit(prices))
