@@ -8,6 +8,7 @@ class solution:
             if left_sum == right_sum:
                 return i
             left_sum = left_sum + nums[i]
+        return -1
 #Test
 obj = solution()
 nums = [6, 5, 6, 3, 7, 1]
