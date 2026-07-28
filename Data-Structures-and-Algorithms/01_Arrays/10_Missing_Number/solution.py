@@ -9,6 +9,6 @@ class solution:
 # Test
 obj = solution()
 
-nums = [3, 0, 1]
+nums = [3, 5, 2, 0, 4]
 
 print(obj.missingNumber(nums))
