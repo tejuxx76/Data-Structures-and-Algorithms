@@ -1,4 +1,4 @@
-class Solution:
+class solution:
     def findKthLargest(self, nums, k):
 
         nums.sort(reverse=True)
@@ -7,9 +7,8 @@ class Solution:
 
 
 # Test Code
-obj = Solution()
+obj = solution()
 
-nums = [3, 2, 1, 5, 6, 4]
+nums = [ 5, 6,3, 2, 1, 7]
 k = 2
-
 print(obj.findKthLargest(nums, k))
