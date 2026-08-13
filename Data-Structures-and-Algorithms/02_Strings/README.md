@@ -1,3 +1,3 @@
 # 02 Strings
 
-Problems Solved: 2
+Problems Solved: 8
