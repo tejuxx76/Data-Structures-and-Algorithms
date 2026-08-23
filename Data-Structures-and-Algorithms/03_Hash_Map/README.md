@@ -1,3 +1,3 @@
 # 03 Hash Map
 
-Problems Solved: 0
+Problems Solved: 2
