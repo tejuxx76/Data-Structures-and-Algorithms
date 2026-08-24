@@ -1,4 +1,5 @@
 def contains_nearby_duplicate(nums, k):
+
     seen = {}
     for i in range(len(nums)):
         if nums[i] in seen:
