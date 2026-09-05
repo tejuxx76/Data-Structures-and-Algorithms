@@ -3,6 +3,7 @@ target = int(input("Enter target: "))
 
 left = 0
 right = len(numbers) - 1
+
 while left < right:
     total = numbers[left] + numbers[right]
     if total == target:
