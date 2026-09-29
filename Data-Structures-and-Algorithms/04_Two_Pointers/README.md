@@ -1,3 +1,3 @@
 # 04 Two Pointers
 
-Problems Solved: 2
+Problems Solved: 9
